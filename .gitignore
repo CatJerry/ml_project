@@ -1,0 +1,12 @@
+*.csv
+*.txt
+*.zip
+*.pkl
+*.pdf
+*.png
+*.json
+
+머신러닝책/
+강의자료/
+
+*.parquet
